@@ -1,0 +1,10 @@
+C:\Users\Lahor\Desktop\Practica Crud\PracticaCrud\PracticaCrud\bin\Debug\PracticaCrud.exe.config
+C:\Users\Lahor\Desktop\Practica Crud\PracticaCrud\PracticaCrud\bin\Debug\PracticaCrud.exe
+C:\Users\Lahor\Desktop\Practica Crud\PracticaCrud\PracticaCrud\bin\Debug\PracticaCrud.pdb
+C:\Users\Lahor\Desktop\Practica Crud\PracticaCrud\PracticaCrud\obj\Debug\PracticaCrud.csproj.AssemblyReference.cache
+C:\Users\Lahor\Desktop\Practica Crud\PracticaCrud\PracticaCrud\obj\Debug\PracticaCrud.Form1.resources
+C:\Users\Lahor\Desktop\Practica Crud\PracticaCrud\PracticaCrud\obj\Debug\PracticaCrud.Properties.Resources.resources
+C:\Users\Lahor\Desktop\Practica Crud\PracticaCrud\PracticaCrud\obj\Debug\PracticaCrud.csproj.GenerateResource.cache
+C:\Users\Lahor\Desktop\Practica Crud\PracticaCrud\PracticaCrud\obj\Debug\PracticaCrud.csproj.CoreCompileInputs.cache
+C:\Users\Lahor\Desktop\Practica Crud\PracticaCrud\PracticaCrud\obj\Debug\PracticaCrud.exe
+C:\Users\Lahor\Desktop\Practica Crud\PracticaCrud\PracticaCrud\obj\Debug\PracticaCrud.pdb
